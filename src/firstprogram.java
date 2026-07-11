@@ -4,6 +4,7 @@ public class firstprogram
     {
 
         System.out.println("Hello world");
+        System.out.println("push this code to gity");
     }
 
 }
